@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sheready or Stella Waithera
-- 👀 I’m interested in software engineering and data science
-- 🌱 I’m currently learning data structures and algorithms,django and django rest framework to learn how to take my web projects to another level.Since March 2022 my goal has been to learn something new and push a commit daily.
-- 💞️ I’m looking to collaborate on data science projects and fullstack web developer projects
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning data structures and algorithms,django and django rest framework to learn how to take my web projects to another level.
+- 💞️ I’m looking to collaborate to opensource projects.
 - 📫 How to reach me via email csstlw@gmail.com
 
 <!---
